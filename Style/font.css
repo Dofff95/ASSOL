@@ -1,0 +1,24 @@
+@font-face {
+  font-family: "averta-cy";
+  src: url("../font/Averta-Bold.woff") format("woff"),
+  font-weight: 700;
+  font-style: normal;
+}
+@font-face {
+  font-family: "averta-cy";
+  src: url("../font/Averta-Semibold.woff") format("woff"),
+  font-weight: 600;
+  font-style: normal;
+}
+@font-face {
+  font-family: "averta-cy";
+  src: url("../font/averta-webfont.woff") format("woff"),
+  font-weight: 400;
+  font-style: normal;
+}
+@font-face {
+  font-family: "averta-cy";
+  src: url("../font/averta_light-webfont.woff") format("woff"),
+  font-weight: 300;
+  font-style: normal;
+}
